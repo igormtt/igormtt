@@ -1,7 +1,7 @@
 ## Olá, me chamo Igor!
 
 -🚀 Estou me especializando em back-end <br>
--🔥 Aprendendo Node.JS e ReactJS
+-🔥 Aprendendo Node.JS e React.JS
 
 <div align="center">
   <a href="https://github.com/igormtt">
