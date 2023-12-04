@@ -3,6 +3,28 @@
 -🚀 Estou me especializando em back-end <br>
 -🔥 Aprendendo Node.JS e React.JS
 
+
+👨‍💻 Desenvolvedor Full Stack | 📚 Estudante de Análise e Desenvolvimento de Sistemas
+
+Sobre Mim:
+
+👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
+💻 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
+🌐 Experiência em Node.js, React, JavaScript, TypeScript.
+🚀 Comprometido com a excelência, qualidade de código e melhores práticas.
+
+Principais Habilidades:
+
+🖥️ Desenvolvimento Front-end: React, Next.js
+🛠️ Desenvolvimento Back-end: Node.js, Nest.js
+🔧 Ferramentas: Git, VSCode.
+
+Contato:
+
+📧 Email: igorg6149@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/igor-motta-9588b4215/
+Vamos construir algo incrível juntos! 👨‍💻🚀
+
 <div align="center">
   <a href="https://github.com/igormtt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormtt&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
