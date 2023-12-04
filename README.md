@@ -21,8 +21,8 @@ Principais Habilidades:
 
 Contato:
 
-📧 Email: igorg6149@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/igor-motta-9588b4215/
+📧 Email: igorg6149@gmail.com <br />
+🔗 LinkedIn: https://www.linkedin.com/in/igor-motta-9588b4215/<br />
 Vamos construir algo incrível juntos! 👨‍💻🚀
 
 <div align="center">
