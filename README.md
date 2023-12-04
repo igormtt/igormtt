@@ -1,7 +1,7 @@
 ## Olá, me chamo Igor!
 
--🚀 Estou me especializando em back-end <br>
--🔥 Aprendendo Node.JS e React.JS
+-🚀 Estou me especializando em desenvolvimento full-stack <br>
+-🔥 Aprendendo Node.JS, React.JS e typeScript
 
 
 👨‍💻 Desenvolvedor Full Stack | 📚 Estudante de Análise e Desenvolvimento de Sistemas
@@ -15,9 +15,9 @@ Sobre Mim:
 
 Principais Habilidades:
 
-🖥️ Desenvolvimento Front-end: React, Next.js
-🛠️ Desenvolvimento Back-end: Node.js, Nest.js
-🔧 Ferramentas: Git, VSCode.
+🖥️ Desenvolvimento Front-end: React, Next.js <br />
+🛠️ Desenvolvimento Back-end: Node.js, Nest.js <br />
+🔧 Ferramentas: Git, VSCode. <br />
 
 Contato:
 
