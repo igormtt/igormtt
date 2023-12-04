@@ -8,10 +8,10 @@
 
 Sobre Mim:
 
-👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
-💻 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
-🌐 Experiência em Node.js, React, JavaScript, TypeScript.
-🚀 Comprometido com a excelência, qualidade de código e melhores práticas.
+👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas. <br />
+💻 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras. <br />
+🌐 Experiência em Node.js, React, JavaScript, TypeScript. <br />
+🚀 Comprometido com a excelência, qualidade de código e melhores práticas. <br />
 
 Principais Habilidades:
 
